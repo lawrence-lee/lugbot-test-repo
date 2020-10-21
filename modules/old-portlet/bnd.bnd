@@ -1,0 +1,4 @@
+Bundle-Name: old-portlet
+Bundle-SymbolicName: old.portlet
+Bundle-Version: 1.0.0
+Export-Package: old.portlet.constants
